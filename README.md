@@ -8,7 +8,7 @@ I am Data Scientist who loves Data Science & Finance!
 
 *   🌍  I'm based in Pune, Maharashtra, India
 *   ✉️  You can contact me at [tusharpatange1@gmail.com](mailto:tusharpatange1@gmail.com)
-*   🧠  I'm learning Machine Leaning and Deep Learning
+*   🧠  I'm learning ML and DL Concepts
 *   🤝  I'm open to collaborating on Data science projects
 ### Skills 
 <p align="left">
